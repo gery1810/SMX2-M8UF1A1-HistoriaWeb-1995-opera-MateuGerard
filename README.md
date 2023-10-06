@@ -7,7 +7,7 @@ El navegador comenzo en 1995 como un proyecto de investigacion de telonor, una e
 La primera version publica de software vio la luz el 30 de abril de 1996 en su version 2.0 la cual solo funciona con microsoft windows.
 
 
-<img src="(https://github.com/gery1810/SMX2-M8UF1A1-HistoriaWeb-1995-opera-MateuGerard/blob/main/logo_opera-nuevo.jpg" alt="Logo" width="300" height="200" />
+<img src="https://github.com/gery1810/SMX2-M8UF1A1-HistoriaWeb-1995-opera-MateuGerard/blob/main/logo_opera-nuevo.jpg" alt="Logo" width="300" height="200" />
 
 
 # Quien fundo opera? 
