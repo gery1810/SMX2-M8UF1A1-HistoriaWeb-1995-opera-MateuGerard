@@ -22,4 +22,4 @@ Jon Stephenson Von Tetzchner es un programador y empresario irlandes. Es actual 
 El otro fundador se llama Geir Ivarsøy que fue el jefe de programadores de opera software. Jon Stephenson y el formaron parte del grupo de investigaciones estatal de noruega donde dessarrollaron el navegador web llamado multitorg Opera.
 
 
-<img src=" https://github.com/gery1810/SMX2-M8UF1A1-HistoriaWeb-1995-opera-MateuGerard/blob/main/GeirIvarsoey.jpg" alt="Logo" width="300" height="200" />
+<img src="https://github.com/gery1810/SMX2-M8UF1A1-HistoriaWeb-1995-opera-MateuGerard/blob/main/GeirIvarsoey.jpg" alt="Logo" width="300" height="200" />
