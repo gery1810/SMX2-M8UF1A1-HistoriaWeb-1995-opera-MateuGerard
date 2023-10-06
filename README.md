@@ -23,3 +23,11 @@ El otro fundador se llama Geir Ivarsøy que fue el jefe de programadores de oper
 
 
 <img src="https://github.com/gery1810/SMX2-M8UF1A1-HistoriaWeb-1995-opera-MateuGerard/blob/main/GeirIvarsoey.jpg" alt="Logo" width="300" height="200" />
+
+
+# Que caracteristicas del navegador opera lo hacen diferente a todos los demas?
+
+Opera te permite sincronizar tu selección de datos (pestañas, marcadores, contraseñas, historial, etc.) en varios dispositivos, tanto en navegador móvil como de escritorio. Esto se puede hacer utilizando tu cuenta Opera y se cifrarán tus contraseñas. La sincronización de datos con Opera se limita a la navegación.
+
+
+
