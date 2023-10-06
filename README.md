@@ -15,7 +15,10 @@ La primera version publica de software vio la luz el 30 de abril de 1996 en su v
 # Quien fundo opera? 
 Jon Stephenson Von Tetzchner es un programador y empresario irlandes. Es actual cofundador y CEO de vivaldi Technologies, la compañia que desarrolla la web Vivaldi entre otros servicios. Anteriormente Tetzchner fue fundador de opera software hasta el 2011, año que abandono la compañia.
 
-![Jon Stephenson Von Tetzchner](https://github.com/gery1810/SMX2-M8UF1A1-HistoriaWeb-1995-opera-MateuGerard/blob/main/1200px-Jon_von_Tetzchner_in_June_2015%2C_Magnolia_(Massachusetts%2C_USA).jpg "Jon Stephenson Von Tetzchner") />
+
+<img src="https://github.com/gery1810/SMX2-M8UF1A1-HistoriaWeb-1995-opera-MateuGerard/blob/main/1200px-Jon_von_Tetzchner_in_June_2015%2C_Magnolia_(Massachusetts%2C_USA).jpg" alt="Logo" width="300" height="200" />
+
+
 
 
 El otro fundador se llama Geir Ivarsøy que fue el jefe de programadores de opera software. Jon Stephenson y el formaron parte del grupo de investigaciones estatal de noruega donde dessarrollaron el navegador web llamado multitorg Opera.
