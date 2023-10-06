@@ -8,7 +8,9 @@ La primera version publica de software vio la luz el 30 de abril de 1996 en su v
 
 
 
-![opera](https://github.com/gery1810/SMX2-M8UF1A1-HistoriaWeb-1995-opera-MateuGerard/blob/main/logo_opera-nuevo.jpg "opera") />
+![opera](https://github.com/gery1810/SMX2-M8UF1A1-HistoriaWeb-1995-opera-MateuGerard/blob/main/logo_opera-nuevo.jpg "opera") 
+
+<img src="(https://github.com/gery1810/SMX2-M8UF1A1-HistoriaWeb-1995-opera-MateuGerard/blob/main/logo_opera-nuevo.jpg " alt="Logo" width="300" height="200" />
 
 
 
